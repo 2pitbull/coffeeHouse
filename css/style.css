@@ -210,7 +210,6 @@ h3 {
 .contact__email {
   width: 300px;
   height: 55px;
-  color: #fff;
   background: #817070;
   border: 3px solid #FFFFFF;
   font-weight: 300;
@@ -218,6 +217,7 @@ h3 {
   line-height: 30px;
   text-align: center;
   color: #fff;
+  outline: none;
 }
 
 .contact__email::placeholder {
