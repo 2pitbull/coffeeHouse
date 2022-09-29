@@ -43,6 +43,10 @@ h3 {
   color: #000;
 }
 
+.header__logo:hover {
+  color: #817070;
+}
+
 .header__menu {
   display: flex;
   justify-items: center;
