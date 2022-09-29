@@ -94,7 +94,7 @@ h3 {
   position: absolute;
   left: 0;
   top: 0;
-  transform: translateX(calc(1440px / 2));
+  transform: translateX(calc(1440px / 2 - 50%));
   margin-top: 362px;
   width: 80px;
   height: 10px;
